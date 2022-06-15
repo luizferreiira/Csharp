@@ -1,0 +1,35 @@
+c:\users\aluno diurno.rede-00\documents\visual studio 2015\Projects\DomiCalc\DomiCalc\bin\Debug\DomiCalc.exe.config
+c:\users\aluno diurno.rede-00\documents\visual studio 2015\Projects\DomiCalc\DomiCalc\bin\Debug\DomiCalc.exe
+c:\users\aluno diurno.rede-00\documents\visual studio 2015\Projects\DomiCalc\DomiCalc\bin\Debug\DomiCalc.pdb
+c:\users\aluno diurno.rede-00\documents\visual studio 2015\Projects\DomiCalc\DomiCalc\obj\Debug\DomiCalc.csprojResolveAssemblyReference.cache
+c:\users\aluno diurno.rede-00\documents\visual studio 2015\Projects\DomiCalc\DomiCalc\obj\Debug\DomiCalc.Properties.Resources.resources
+c:\users\aluno diurno.rede-00\documents\visual studio 2015\Projects\DomiCalc\DomiCalc\obj\Debug\DomiCalc.csproj.GenerateResource.Cache
+c:\users\aluno diurno.rede-00\documents\visual studio 2015\Projects\DomiCalc\DomiCalc\obj\Debug\DomiCalc.exe
+c:\users\aluno diurno.rede-00\documents\visual studio 2015\Projects\DomiCalc\DomiCalc\obj\Debug\DomiCalc.pdb
+C:\Users\Aluno Diurno.REDE-00\Documents\Visual Studio 2015\Projects\DomiCalc\DomiCalc\obj\Debug\DomiCalc.Tela_Cadastro.resources
+C:\Users\Aluno Diurno.REDE-00\Documents\Visual Studio 2015\Projects\DomiCalc\DomiCalc\obj\Debug\DomiCalc.Tela_Jogar.resources
+C:\Users\Aluno Diurno.REDE-00\Documents\Visual Studio 2015\Projects\DomiCalc\DomiCalc\obj\Debug\DomiCalc.Login.resources
+C:\Users\Aluno Diurno.REDE-00\Documents\Visual Studio 2015\Projects\DomiCalc\DomiCalc\obj\Debug\DomiCalc.Tela_TentarDNV.resources
+C:\Users\Aluno Diurno.REDE-00\Documents\Visual Studio 2015\Projects\DomiCalc\DomiCalc\obj\Debug\DomiCalc.Tela_Acertou.resources
+C:\Users\Aluno Diurno.REDE-00\Documents\Visual Studio 2015\Projects\DomiCalc\DomiCalc\obj\Debug\DomiCalc.Tela_Inicial.resources
+C:\Users\Aluno Diurno.REDE-00\Documents\Visual Studio 2015\Projects\DomiCalc\DomiCalc\obj\Debug\DomiCalc.Fases.resources
+C:\Users\Aluno Diurno.REDE-00\Documents\Visual Studio 2015\Projects\DomiCalc\DomiCalc\obj\Debug\DomiCalc.Exercicio.resources
+C:\Users\Luiz\Documents\Visual Studio 2015\Projects\DomiCalc\bin\Debug\DomiCalc.exe.config
+C:\Users\Luiz\Documents\Visual Studio 2015\Projects\DomiCalc\obj\Debug\DomiCalc.exe
+C:\Users\Luiz\Documents\Visual Studio 2015\Projects\DomiCalc\obj\Debug\DomiCalc.pdb
+C:\Users\Luiz\Documents\Visual Studio 2015\Projects\DomiCalc\bin\Debug\DomiCalc.exe
+C:\Users\Luiz\Documents\Visual Studio 2015\Projects\DomiCalc\bin\Debug\DomiCalc.pdb
+C:\Users\Luiz\Documents\Visual Studio 2015\Projects\DomiCalc\obj\Debug\DomiCalc.csprojResolveAssemblyReference.cache
+C:\Users\Luiz\Documents\Visual Studio 2015\Projects\DomiCalc\obj\Debug\DomiCalc.Fases.resources
+C:\Users\Luiz\Documents\Visual Studio 2015\Projects\DomiCalc\obj\Debug\DomiCalc.Exercicio.resources
+C:\Users\Luiz\Documents\Visual Studio 2015\Projects\DomiCalc\obj\Debug\DomiCalc.Login.resources
+C:\Users\Luiz\Documents\Visual Studio 2015\Projects\DomiCalc\obj\Debug\DomiCalc.Tela_TentarDNV.resources
+C:\Users\Luiz\Documents\Visual Studio 2015\Projects\DomiCalc\obj\Debug\DomiCalc.Tela_Acertou.resources
+C:\Users\Luiz\Documents\Visual Studio 2015\Projects\DomiCalc\obj\Debug\DomiCalc.Tela_Inicial.resources
+C:\Users\Luiz\Documents\Visual Studio 2015\Projects\DomiCalc\obj\Debug\DomiCalc.Tela_Cadastro.resources
+C:\Users\Luiz\Documents\Visual Studio 2015\Projects\DomiCalc\obj\Debug\DomiCalc.Tela_Jogar.resources
+C:\Users\Luiz\Documents\Visual Studio 2015\Projects\DomiCalc\obj\Debug\DomiCalc.Properties.Resources.resources
+C:\Users\Luiz\Documents\Visual Studio 2015\Projects\DomiCalc\obj\Debug\DomiCalc.csproj.GenerateResource.Cache
+C:\Users\Luiz\Documents\Visual Studio 2015\Projects\DomiCalc\obj\Debug\DomiCalc.Dica.resources
+C:\Users\Luiz\Documents\Visual Studio 2015\Projects\DomiCalc\obj\Debug\DomiCalc.DicaContinuacao.resources
+C:\Users\Luiz\Documents\Visual Studio 2015\Projects\DomiCalc\obj\Debug\DomiCalc.DicaContinuacao2.resources
